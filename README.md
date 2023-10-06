@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Ebenezerjonah
+- # 👋 Hi there , I’m @Ebenezerjonah
 - 👀 I’m a Data scientist
 - 🌱 I’m versed in python programming, machine learning, sql and powerbi
-- 💞️ I’m looking to collaborate on any projects that could boost my skill as an entry leveler
-- 📫 How to reach me 08120833060
+- 💞️ I’m looking to collaborate on any projects that could help solve business problems 
+- 📫 connect with me on LinkedIn 
 
 <!---
 Ebenezerjonah/Ebenezerjonah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
